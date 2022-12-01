@@ -23,5 +23,5 @@ published.
 6. git fetch and merge serve as a seperate way of communicating to the repository of changes made, and seperately merges these changes in. git pull 
 however, brings those changes directly to the repository. 
 7. A merge conflict happens when changes are made to the same lines of code in the same branch that do not match.
-8. The best way to resolve a merge conflict is to go into the conflicting files and edit manually before trying a new merge.
+8. The best way to resolve a merge conflict is to go into the conflicting files and edit manually before attempting a new merge.
   
